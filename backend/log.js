@@ -3,11 +3,11 @@ const axios = require('axios');
 const VALID_STACKS = ['backend', 'frontend'];
 const VALID_LEVELS = ['debug', 'info', 'warn', 'error', 'fatal'];
 const VALID_PACKAGES = [
-  // Backend only
+ 
   'cache', 'controller', 'cron_job', 'db', 'domain', 'handler', 'repository', 'route', 'service',
-  // Frontend only
+  
   'api', 'hook', 'page', 'state', 'style',
-  // Both
+  
   'auth', 'config', 'middleware', 'utils'
 ];
 
