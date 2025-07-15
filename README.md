@@ -67,6 +67,8 @@ npm start
 
 ## Screenshots
 
+![Main Screenshot](frontend/screenshots/Main.png)
+
 ![URL Shortener Main Page](screenshots/1_url_shortener.png)
 *Main page where users can shorten URLs.*
 
